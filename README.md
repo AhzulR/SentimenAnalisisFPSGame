@@ -1,4 +1,4 @@
-# SentimenAnalisisFPSGame
+# Sentiment Analysis Review Mobile Game FPS in Google Play Store
 Assesment project for information retrieval class..
 in this project we work as team.. here the team 
 1. Anugrah Ahzul R (me)
